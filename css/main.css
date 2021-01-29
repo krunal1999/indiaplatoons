@@ -85,7 +85,14 @@ section {
   transform: scale(1.1);
   opacity: 0.9;
 }
-
+.clickbelow {
+  background-color: #83a32c;
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
 .primary-title {
   font-size: 4rem;
   font-size: clamp(3rem, calc(5vw + 1rem), 4.5rem);
